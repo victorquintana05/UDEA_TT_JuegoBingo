@@ -32,3 +32,9 @@
     padding-right: 10px;
     /* Pequeño padding para separar del borde del contenedor */
 }
+.tablaCantor{
+    width: 100%; /* Ocupa todo el ancho disponible en .cantor-section */
+    border-collapse: collapse;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    background-color: #fff;
+}
